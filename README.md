@@ -12,6 +12,27 @@ Welcome to my 3D portfolio built with [Three.js](https://threejs.org/)! This int
 
 ---
 
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/jeremybepitech/three-portfolio.git
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**:
+   Navigate to [http://localhost:3000](http://localhost:3000) to explore the portfolio.
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -29,4 +50,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for visiting my 3D portfolio! 🚀
-
