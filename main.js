@@ -113,7 +113,7 @@ class ThreeJSApp {
     }
 
     addTitles() {
-        this.loader.load('/fonts/helvetiker_regular.typeface.json', (font) => {
+        this.loader.load(`${import.meta.env.BASE_URL}fonts/helvetiker_regular.typeface.json`, (font) => {
             let startingPoint = this.repoTitles.length / 4 * 8;
             this.repoTitles.forEach((title, index) => {
                 const textGeometry = new TextGeometry(title, {
