@@ -2,6 +2,8 @@
 
 Welcome to my 3D portfolio built with [Three.js](https://threejs.org/)! This interactive experience allows you to explore a virtual space where you can discover my projects and directly navigate to their GitHub repositories.
 
+You can access the live version of the portfolio [here](https://jeremybepitech.github.io/three-portfolio/).
+
 ---
 
 ## 🎨 Features
